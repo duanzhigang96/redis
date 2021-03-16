@@ -1,1 +1,1 @@
-# redis 学习笔记（master 分支）
+# redis 学习笔记
